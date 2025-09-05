@@ -32,5 +32,5 @@ A página contém:
 
 ## Acesse o projeto
 
-(https://dev-barber-eta.vercel.app/)
+🔗 [Acesse o projeto online](https://dev-barber-eta.vercel.app/)
 
