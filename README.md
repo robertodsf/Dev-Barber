@@ -30,8 +30,7 @@ A página contém:
 
 ---
 
-## Demonstração
+## Acesse o projeto
 
-![Preview do Projeto](assets/preview.png)  
-*(adicione aqui uma captura de tela do site, se desejar)*
+(https://dev-barber-eta.vercel.app/)
 
